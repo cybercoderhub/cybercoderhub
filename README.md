@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybercoderhub" alt="Pawan Bhatta" /></a> </p>
-
-
 *I am a web developer and a coder.*
 
 <h3 align="left">Connect with me:</h3>
