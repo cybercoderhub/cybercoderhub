@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <h2 style="font-family:'Lucida Sans Unicode','Lucida Grande','Lucida Sans','DejaVu Sans Condensed',sans-serif;>Hello I am cyber-coder-hub<img src="https://c.tenor.com/UX-QYT2KtycAAAAi/brown-cony-bear.gif" width="250"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybercoderhub&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Bhatta" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybercoderhub" alt="Pawan Bhatta" /></a> </p>
